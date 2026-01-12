@@ -1,0 +1,8 @@
+{
+  "name": "SoloBuild Autopilot 2026",
+  "description": "An elite dashboard for solo app builders to manage their product lifecycle using the AI Autopilot Agent system and the 2026 Solo Builder Playbook.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
